@@ -10,7 +10,7 @@ const Header = () => {
         <header className='py-8'>
             <div className="container">
                 <div className="flex items-center justify-between">
-                    <div className="logo max-w-[50px]">
+                    <div className="logo max-w-[80px]">
                         <Image src={logo} alt='Infinity Media Inc' width={83} height={83} />
                     </div>
                     <div className="flex items-center">
