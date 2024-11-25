@@ -1,7 +1,7 @@
 
 export const metadata = {
-  title: "Bhaoo INC - Thank You",
-  description: "Bhaoo INC - Thank You",
+  title: "Infinity Media Inc - Thank You",
+  description: "Infinity Media Inc - Thank You",
   robots: {
     index: false,
     follow: false,

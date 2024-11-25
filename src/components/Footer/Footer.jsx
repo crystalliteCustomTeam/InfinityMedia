@@ -9,7 +9,7 @@ const Footer = () => {
         <section>
             <div className="logo py-[40px] borderImage">
                 <Link href="#">
-                    <Image src={logo} alt='Bhaoo Inc' className='block mx-auto max-w-[60px]' />
+                    <Image src={logo} alt='Infinity Media Inc' className='block mx-auto max-w-[60px]' />
                 </Link>
             </div>
             <div className="location borderImageleft py-[30px]">
@@ -34,13 +34,13 @@ const Footer = () => {
                             </div>
                         </li>
                         <li className='flex items-center gap-5'>
-                            <Link href="mailto:info@bhaooinc.com" className='text-white text-[13px] xl:text-[16px] font-sans flex items-center gap-3'>
+                            <Link href="mailto:info@Infinitymediainc.com" className='text-white text-[13px] xl:text-[16px] font-sans flex items-center gap-3'>
                                 <FaEnvelope className='lg:block hidden' />
-                                info@bhaooinc.com
+                                info@Infinitymediainc.com
                             </Link>
-                            <Link href="tel:3024020430" className='text-white text-[13px] xl:text-[16px] font-sans flex items-center gap-3'>
+                            <Link href="tel:8328883694" className='text-white text-[13px] xl:text-[16px] font-sans flex items-center gap-3'>
                                 <FaPhoneAlt className='lg:block hidden' />
-                                (302) 402 0430
+                                (832) 888 3694
                             </Link>
                         </li>
                     </ul>
@@ -116,7 +116,7 @@ const Footer = () => {
             </div>
             <div className="copyright py-[20px]">
                 <div className="text-center flex justify-evenly items-center ">
-                    <p className='font-sans text-white text-[14px] md:text-[20px] '>2024 – Bhaooinc – All Rights Reserved</p>
+                    <p className='font-sans text-white text-[14px] md:text-[20px] '>2024 – Infinitymediainc – All Rights Reserved</p>
                     <p><Link href="/privacy-policy" className="font-sans text-white text-[14px] md:text-[20px] ">Privacy Policy </Link></p>
                 </div>
             </div>

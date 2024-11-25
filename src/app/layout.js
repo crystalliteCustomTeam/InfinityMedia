@@ -7,8 +7,8 @@ import "./globals.css";
 import { cn } from "@/lib/utils"
 
 export const metadata = {
-  title: "Bhaoo INC - Empowering Your Digital Transformation Journey",
-  description: "Bhaoo INC - Empowering Your Digital Transformation Journey",
+  title: "Infinity Media Inc - Empowering Your Digital Transformation Journey",
+  description: "Infinity Media Inc - Empowering Your Digital Transformation Journey",
   robots: {
     index: false,
     follow: false,

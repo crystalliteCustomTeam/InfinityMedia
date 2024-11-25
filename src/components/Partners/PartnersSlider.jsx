@@ -22,7 +22,7 @@ const PartnersSlider = () => {
                     [Partners1, Partners2, Partners2, Partners3, Partners4, Partners5, Partners6, Partners7, , Partners8].map((e, i) => (
                         <div key={i} className='basis-3/5 md:basis-2/5 lg:basis-1/5 min-w-0 px-10 shrink-0 border-r border-[#6e6c6c] border-dashed mb-5'>
                             <div>
-                                <Image tabIndex={0} key={i} src={e} alt='Bhaoo Inc' className='w-[300px] mx-auto' />
+                                <Image tabIndex={0} key={i} src={e} alt='Infinity Media Inc' className='w-[300px] mx-auto' />
                             </div>
                         </div>
                     ))
@@ -33,7 +33,7 @@ const PartnersSlider = () => {
                     [Partners1, Partners2, Partners2, Partners3, Partners4, Partners5, Partners6, Partners7, , Partners8].map((e, i) => (
                         <div key={i} className='basis-3/5 md:basis-2/5 lg:basis-1/5 min-w-0 px-10 shrink-0 border-r border-[#6e6c6c] border-dashed'>
                             <div>
-                                <Image tabIndex={0} key={i} src={e} alt='Bhaoo Inc' className='w-[300px] mx-auto' />
+                                <Image tabIndex={0} key={i} src={e} alt='Infinity Media Inc' className='w-[300px] mx-auto' />
                             </div>
                         </div>
                     ))

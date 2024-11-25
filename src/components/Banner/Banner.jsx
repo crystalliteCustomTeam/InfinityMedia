@@ -37,7 +37,7 @@ const Banner = ({
                     </div>
                 </div>
                 <div className="lines absolute bottom-[80px] left-0 right-0 mx-auto z-[-1] md:block hidden">
-                    <Image src={Lines} alt='Bhaoo Inc' className='w-full' />
+                    <Image src={Lines} alt='Infinity Media Inc' className='w-full' />
                 </div>
             </section>
         </>

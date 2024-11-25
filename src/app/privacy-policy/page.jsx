@@ -11,7 +11,7 @@ const page = () => {
                 <div className="col-span-12 text-white text-left mt-5">
                     <h2 className="font-sans text-3xl mb-2 text-[#438EFF]">1. Introduction</h2>
                     <p className="font-sans text-[13px] xl:text-[14px] font-[400] text-[white] ">
-                        Welcome to Bhaooinc ("we," "our," "us"). We are committed to protecting your privacy and ensuring your experience with us is safe and secure. This Privacy Policy outlines how we collect, use, and safeguard your information when you interact with us, including our digital services, mobile applications, and software solutions.
+                        Welcome to Infinitymediainc ("we," "our," "us"). We are committed to protecting your privacy and ensuring your experience with us is safe and secure. This Privacy Policy outlines how we collect, use, and safeguard your information when you interact with us, including our digital services, mobile applications, and software solutions.
                     </p>
     
                     <h2 className="font-sans text-3xl mt-5 mb-2 text-[#438EFF]">2. Information We Collect</h2>
@@ -46,8 +46,8 @@ const page = () => {
                       
                         8 The Green, STE 300<br />
                         Dover, DE 19901<br />
-                        <a href="mailto:info@bhaooinc.com" className="underline text-white">info@bhaooinc.com</a><br />
-                        (302) 402 0430
+                        <a href="mailto:info@Infinitymediainc.com" className="underline text-white">info@Infinitymediainc.com</a><br />
+                        (832) 888 3694
                     </address>
                 </div>
             </div>

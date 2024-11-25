@@ -74,10 +74,10 @@ const Contact = () => {
         <section className='py-[50px] xl:py-[80px]'>
             <div className="container relative">
                 <div className="particleOne absolute right-0 top-0 lg:top-[-130px] lg:opacity-[1] opacity-[0.7] z-[-1] md:block hidden">
-                    <Image src={ParticleOne} alt='Bhaoo Inc' className='w-8/12' />
+                    <Image src={ParticleOne} alt='Infinity Media Inc' className='w-8/12' />
                 </div>
                 <div className="ParticleTwo absolute left-0 bottom-0 lg:opacity-[1] opacity-[0.7] z-[-1] md:block hidden">
-                    <Image src={ParticleTwo} alt='Bhaoo Inc' className='w-8/12' />
+                    <Image src={ParticleTwo} alt='Infinity Media Inc' className='w-8/12' />
                 </div>
                 <div className="grid grid-cols-12">
                     <div className="col-span-12">
