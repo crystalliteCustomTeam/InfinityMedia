@@ -27,9 +27,9 @@ const Brands = () => {
                     <div className="col-span-12 md:col-span-6">
                         <h3 className='text-[#fff] text-[25px] md:text-[30px] lg:text-[40px] font-sans font-[600]'>BookWritingCube:</h3>
                         <p className='text-white text-[17px] lg:text-[20px] font-sans font-[500] my-2'>Elevate Your Written Works to New Heights</p>
-                        <h5 className='text-[#438EFF] font-sans text-[20px] lg:text-[23px] font-[500] '>BookWritingCube.com</h5>
+                        <h5 className='text-[#438EFF] font-sans text-[20px] lg:text-[23px] font-[500] '>bookwritingcube.us</h5>
                         <p className='font-sans text-white text-[14px] lg:text-[16px] mt-3 mb-8 lg:pr-5 h-[100px] overflow-y-scroll lg:overflow-y-hidden lg:h-full'>BookWritingCube, a flagship service of Infinity Media Inc, brings your creative ideas to life through professional writing services. Whether you are an aspiring author, academic researcher, or business professional, our talented team of writers and editors are dedicated to delivering exceptional written content that captivates and engages your audience. From book ghostwriting to editing and proofreading, we ensure your written works are polished, impactful, and ready to make a lasting impression.</p>
-                        <Link href="https://bookwritingcube.com" target="_blank" className='border-white border-2 text-white font-sans text-[16px] rounded-[12px] px-[30px] py-[8px] flex items-center w-fit gap-x-3 group'>
+                        <Link href="https://bookwritingcube.us" target="_blank" className='border-white border-2 text-white font-sans text-[16px] rounded-[12px] px-[30px] py-[8px] flex items-center w-fit gap-x-3 group'>
                             Learn More
                              <FaArrowRight className='group-hover:ml-[20px] duration-700 group-hover:duration-700 ease-in-out' />
                         </Link>
@@ -105,9 +105,9 @@ const Brands = () => {
                     <div className="col-span-12 md:col-span-6">
                         <h3 className='text-[#fff] text-[25px] md:text-[30px] lg:text-[40px] font-sans font-[600]'>Best Selling Publisher</h3>
                         <p className='text-white text-[17px] lg:text-[20px] font-sans font-[500] my-2'>Unleashing Imagination, Inspiring Generations</p>
-                        <h5 className='text-[#438EFF] font-sans text-[20px] lg:text-[23px] font-[500] '>bestsellingpublisher.com</h5>
+                        <h5 className='text-[#438EFF] font-sans text-[20px] lg:text-[23px] font-[500] '>bestsellingpublisher.us</h5>
                         <p className='font-sans text-white text-[14px] lg:text-[16px] mt-3 mb-8 lg:pr-5 h-[100px] overflow-y-scroll lg:overflow-y-hidden lg:h-full'>As the premier destination for best-selling literature, we’re more than just a book writing, editing, and publishing powerhouse. We’re a dynamic fusion of creativity and innovation, brought to life by a dedicated team of writers, editors, publishers, developers, and designers. Together, we don’t just produce books; we craft unforgettable journeys, market masterpieces, and ignite imaginations worldwide. Welcome to where stories transcend pages, shaping the future of literature.</p>
-                        <Link href="https://bestsellingpublisher.com" target="_blank" className='border-white border-2 text-white font-sans text-[16px] rounded-[12px] px-[30px] py-[8px] flex items-center w-fit gap-x-3 group'>
+                        <Link href="https://bestsellingpublisher.us" target="_blank" className='border-white border-2 text-white font-sans text-[16px] rounded-[12px] px-[30px] py-[8px] flex items-center w-fit gap-x-3 group'>
                             Learn More
                              <FaArrowRight className='group-hover:ml-[20px] duration-700 group-hover:duration-700 ease-in-out' />
                         </Link>
