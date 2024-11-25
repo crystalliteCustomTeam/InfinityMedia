@@ -18,7 +18,7 @@ const Footer = () => {
                         <li>
                             <Link href="#" className='flex items-center gap-2 xl:gap-3 font-sans text-[13px] xl:text-[16px] font-[400] text-[white] text-center'>
                                 <FaMapMarkerAlt className='lg:block hidden' />
-                                Office: 8 The Green, STE 300, Dover, DE 19901
+                                900 Balcones Drive, S TE100 Austin, T exas, 78731
                             </Link>
                         </li>
                         <li className='flex items-center gap-5'>
