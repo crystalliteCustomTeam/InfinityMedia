@@ -27,7 +27,7 @@ const Header = () => {
                                 </Link>
                             </div>
                             <div className="group">
-                                <Link href="tel:8328883694" className='p-3 w-full block text-white bg-[#02010100] border border-white rounded-full group-hover:border group-hover:border-blue-600 duration-700 ease-in-out group-hover:duration-700'>
+                                <Link href="tel:2134517575" className='p-3 w-full block text-white bg-[#02010100] border border-white rounded-full group-hover:border group-hover:border-blue-600 duration-700 ease-in-out group-hover:duration-700'>
                                     <FaPhoneAlt className='text-[22px] font-bold group-hover:text-blue-600 group-hover:scale-[1.1] duration-700 ease-in-out group-hover:duration-700' />
                                 </Link>
                             </div>

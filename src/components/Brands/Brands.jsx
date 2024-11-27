@@ -85,11 +85,11 @@ const Brands = () => {
                 </div>
                 <div className="grid grid-cols-12 items-center">
                     <div className="col-span-12 md:col-span-6">
-                        <h3 className='text-[#fff] text-[25px] md:text-[30px] lg:text-[40px] font-sans font-[600]'>Leadz Experts:</h3>
-                        <p className='text-white text-[17px] lg:text-[20px] font-sans font-[500] my-2'>Accelerate Your Business Growth with Strategic Marketing</p>
-                        <h5 className='text-[#438EFF] font-sans text-[20px] lg:text-[23px] font-[500] '>LeadzExperts.com</h5>
-                        <p className='font-sans text-white text-[14px] lg:text-[16px] mt-3 mb-8 lg:pr-5 h-[100px] overflow-y-scroll lg:overflow-y-hidden lg:h-full'>Leadz Experts, a strategic partner of Infinity Media Inc, is a results-oriented digital marketing agency. Our comprehensive marketing solutions drive lead generation, customer engagement, and business growth. From strategic planning and implementation to marketing automation and analytics, we help businesses maximize their marketing ROI and achieve sustainable success in the ever-evolving digital landscape.</p>
-                        <Link href="https://leadexperts.com" target="_blank" className='border-white border-2 text-white font-sans text-[16px] rounded-[12px] px-[30px] py-[8px] flex items-center w-fit gap-x-3 group'>
+                        <h3 className='text-[#fff] text-[25px] md:text-[30px] lg:text-[40px] font-sans font-[600]'>Seo Company:</h3>
+                        <p className='text-white text-[17px] lg:text-[20px] font-sans font-[500] my-2'>America's Leading Digital Marketing Company</p>
+                        <h5 className='text-[#438EFF] font-sans text-[20px] lg:text-[23px] font-[500] '>Seo-Company.us</h5>
+                        <p className='font-sans text-white text-[14px] lg:text-[16px] mt-3 mb-8 lg:pr-5 h-[100px] overflow-y-scroll lg:overflow-y-hidden lg:h-full'>As a leading SEO Agency, we offer sweeping SEO strategies to boost your online success. Our team excels in keyword research, content optimization, and link-building, delivering exceptional results.</p>
+                        <Link href="https://seo-company.us" target="_blank" className='border-white border-2 text-white font-sans text-[16px] rounded-[12px] px-[30px] py-[8px] flex items-center w-fit gap-x-3 group'>
                             Learn More
                              <FaArrowRight className='group-hover:ml-[20px] duration-700 group-hover:duration-700 ease-in-out' />
                         </Link>

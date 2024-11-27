@@ -46,7 +46,7 @@ const page = () => {
 
                             900 Balcones Drive, S TE100 Austin, <br /> T exas, 78731 <br />
                             <a href="mailto:info@Infinitymediainc.com" className="underline text-white">info@Infinitymediainc.com</a><br />
-                            (832) 888 3694
+                            (213) 451 7575
                         </address>
                     </div>
                 </div>
