@@ -23,7 +23,7 @@ const Brands = () => {
                         </h2>
                     </div>
                 </div>
-                <div className="grid grid-cols-12 items-center">
+                {/* <div className="grid grid-cols-12 items-center">
                     <div className="col-span-12 md:col-span-6">
                         <h3 className='text-[#fff] text-[25px] md:text-[30px] lg:text-[40px] font-sans font-[600]'>BookWritingCube:</h3>
                         <p className='text-white text-[17px] lg:text-[20px] font-sans font-[500] my-2'>Elevate Your Written Works to New Heights</p>
@@ -37,7 +37,7 @@ const Brands = () => {
                     <div className="col-span-12 md:col-span-6">
                         <Image src={BrandOne} alt='Infinity Media Inc' className='w-9/12 mx-auto md:block hidden animation' />
                     </div>
-                </div>
+                </div> */}
                 <div className="grid grid-cols-12 items-center my-14">
                     <div className="col-span-12 md:col-span-6">
                         <Image src={BrandTwo} alt='Infinity Media Inc' className='w-9/12 md:block hidden animationUpDown' />
