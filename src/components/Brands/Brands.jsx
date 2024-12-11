@@ -45,9 +45,9 @@ const Brands = () => {
                     <div className="col-span-12 md:col-span-6">
                         <h3 className='text-[#fff] text-[25px] md:text-[30px] lg:text-[40px] font-sans font-[600]'>Bitswits:</h3>
                         <p className='text-white text-[17px] lg:text-[20px] font-sans font-[500] my-2'>Unleash the Power of Custom Software Solutions</p>
-                        <h5 className='text-[#438EFF] font-sans text-[20px] lg:text-[23px] font-[500] '>Bitswits.us</h5>
+                        <h5 className='text-[#438EFF] font-sans text-[20px] lg:text-[23px] font-[500] '>Bitswits.co</h5>
                         <p className='font-sans text-white text-[14px] lg:text-[16px] mt-3 mb-8 lg:pr-5 h-[100px] overflow-y-scroll lg:overflow-y-hidden lg:h-full'>BitsWits, a trusted division of Infinity Media Inc, specializes in custom software development and IT consulting services. Our team of expert developers and consultants collaborates closely with clients to understand their unique business requirements and design bespoke software solutions. From web and mobile app development to cloud integration and automation, we empower businesses to leverage cutting-edge technology and enhance operational efficiency, productivity, and growth.</p>
-                        <Link href="https://Bitswits.us" target="_blank" className='border-white border-2 text-white font-sans text-[16px] rounded-[12px] px-[30px] py-[8px] flex items-center w-fit gap-x-3 group'>
+                        <Link href="https://Bitswits.co" target="_blank" className='border-white border-2 text-white font-sans text-[16px] rounded-[12px] px-[30px] py-[8px] flex items-center w-fit gap-x-3 group'>
                             Learn More
                              <FaArrowRight className='group-hover:ml-[20px] duration-700 group-hover:duration-700 ease-in-out' />
                         </Link>
