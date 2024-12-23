@@ -18,7 +18,7 @@ const Footer = () => {
                         <li>
                             <Link href="#" className='flex items-center gap-2 xl:gap-3 font-sans text-[13px] xl:text-[16px] font-[400] text-[white] text-center'>
                                 <FaMapMarkerAlt className='lg:block hidden' />
-                                900 Balcones Drive, S TE100 Austin, T exas, 78731
+                                5900 Balcones Drive, S TE100 Austin, Texas, 78731
                             </Link>
                         </li>
                         <li className='flex items-center gap-5'>
@@ -40,7 +40,7 @@ const Footer = () => {
                             </Link>
                             <Link href="tel:2134517575" className='text-white text-[13px] xl:text-[16px] font-sans flex items-center gap-3'>
                                 <FaPhoneAlt className='lg:block hidden' />
-                                (213) 451 7575
+                                Call Us At: 213-451-7575
                             </Link>
                         </li>
                     </ul>
@@ -48,14 +48,6 @@ const Footer = () => {
             </div>
             <div className="px-8 lg:px-16 border-t-4 pt-[30px]">
                 <ul className="flex flex-wrap lg:flex-nowrap items-center justify-center lg:justify-between gap-5 lg:gap-2 xl:gap-8">
-                    <li>
-                        <a href="tel:3028838877" className='text-[11px] xl:text-[13px] 2xl:text-[16px] font-sans text-white capitalize text-center flex flex-col items-center justify-center'>
-                            book writing cube
-                            <span className='block'>
-                                (302) 883-8877
-                            </span>
-                        </a>
-                    </li>
                     <li>
                         <a href="tel:8335006007" className='text-[11px] xl:text-[13px] 2xl:text-[16px] font-sans text-white capitalize text-center flex flex-col items-center justify-center'>
                             Bitswits
