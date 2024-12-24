@@ -47,6 +47,9 @@ const page = () => {
               <li className="font-sans text-[13px] xl:text-[14px] font-[400] text-[white] ">
              We do not share or sell consumer personal information
               </li>
+              <li className="font-sans text-[13px] xl:text-[14px] font-[400] text-[white] ">
+              By providing your telephone number and submitting this form, you consent to being <br />  contacted via SMS text message. Standard message and data rates may apply. <br />  To opt-out of further messages, simply reply STOP.
+              </li>
             </ul>
 
             <h3 className="font-sans text-xl mt-5 mb-2">
