@@ -36,21 +36,21 @@ const page = () => {
                             <li className="font-sans text-[13px] xl:text-[14px] font-[400] text-[white] ">Cookies and similar technologies (for tracking user preferences and activities)</li>
                         </ul>
 
+                        <span className="block font-sans text-[15px] xl:text-[14px] font-[500] text-[white] my-3"    >
+                        <em>Reply STOP to opt out. To stop receiving messages from Infinitimediainc, reply STOP, CANCEL, or UNSUBSCRIBE</em>
+                        </span>
                         {/* Add more sections in a similar manner */}
 
                         <h2 className="font-sans text-2xl mt-5 mb-2">Contact Us</h2>
                         <p className="font-sans text-[13px] xl:text-[14px] font-[400] text-[white] "    >
-                            If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:<br /><br />
-                        </p>
+                            If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
+                        </p><br />
                         <address className="not-italic font-sans text-[13px] xl:text-[14px] font-[400] text-[white] ">
 
                             5900 Balcones Drive, S TE100 Austin, <br /> Texas, 78731 <br />
                             <a href="mailto:info@Infinitymediainc.com" className="underline text-white">info@Infinitymediainc.com</a><br />
-                            Call Us At: 213-451-7575
+                            Call us at: 213-451-7575
                         </address>
-                        <span className="block font-sans text-[15px] xl:text-[14px] font-[500] text-[white] mt-4 mb-10"    >
-                        <em>Reply STOP to opt out. To stop receiving messages from Infinitimediainc, reply STOP, CANCEL, or UNSUBSCRIBE</em>
-                        </span>
                     </div>
                 </div>
             </div>

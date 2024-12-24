@@ -40,7 +40,7 @@ const Footer = () => {
                             </Link>
                             <Link href="tel:2134517575" className='text-white text-[13px] xl:text-[16px] font-sans flex items-center gap-3'>
                                 <FaPhoneAlt className='lg:block hidden' />
-                                Call Us At: 213-451-7575
+                                Call us at: 213-451-7575
                             </Link>
                         </li>
                     </ul>
