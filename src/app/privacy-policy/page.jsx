@@ -44,6 +44,9 @@ const page = () => {
               <li className="font-sans text-[13px] xl:text-[14px] font-[400] text-[white] ">
                 Payment information (credit card details, billing address)
               </li>
+              <li className="font-sans text-[13px] xl:text-[14px] font-[400] text-[white] ">
+             We do not share or sell consumer personal information
+              </li>
             </ul>
 
             <h3 className="font-sans text-xl mt-5 mb-2">
@@ -65,16 +68,19 @@ const page = () => {
                 Cookies and similar technologies (for tracking user preferences
                 and activities)
               </li>
+              <li className="font-sans text-[13px] xl:text-[14px] font-[400] text-[white] ">
+              <em>
+               To stop receiving messages from
+                Infinitimediainc, reply STOP, CANCEL, or UNSUBSCRIBE
+              </em>
+              </li>
             </ul>
 
             <span className="block font-sans text-[15px] xl:text-[14px] font-[500] text-[white] my-3">
-              <em>
-                Reply STOP to opt out. To stop receiving messages from
-                Infinitimediainc, reply STOP, CANCEL, or UNSUBSCRIBE
-              </em>
+              
             </span>
             <span className="block font-sans text-[15px] xl:text-[14px] font-[500] text-[white] my-3">
-              Do not share or sell consumer personal information
+              
             </span>
             {/* Add more sections in a similar manner */}
 
