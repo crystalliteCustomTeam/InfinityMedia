@@ -44,10 +44,13 @@ const page = () => {
                         </p>
                         <address className="not-italic font-sans text-[13px] xl:text-[14px] font-[400] text-[white] ">
 
-                            900 Balcones Drive, S TE100 Austin, <br /> T exas, 78731 <br />
+                            5900 Balcones Drive, S TE100 Austin, <br /> Texas, 78731 <br />
                             <a href="mailto:info@Infinitymediainc.com" className="underline text-white">info@Infinitymediainc.com</a><br />
-                            (213) 451 7575
+                            Call Us At: 213-451-7575
                         </address>
+                        <span className="block font-sans text-[15px] xl:text-[14px] font-[500] text-[white] mt-4 mb-10"    >
+                        <em>Reply STOP to opt out. To stop receiving messages from Infinitimediainc, reply STOP, CANCEL, or UNSUBSCRIBE</em>
+                        </span>
                     </div>
                 </div>
             </div>
